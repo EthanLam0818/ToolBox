@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\workstation\\_person\\git\\toolbox\\source\\toolbox\\toolbox.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\workstation\\_person\\git\\toolbox\\intermediate\\build\\win64\\toolboxeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\workstation\\_person\\git\\toolbox\\intermediate\\build\\win64\\unrealeditor\\development\\toolbox\\definitions.toolbox.h",
+            "d:\\workstation\\_person\\git\\toolbox\\source\\toolbox\\toolbox.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

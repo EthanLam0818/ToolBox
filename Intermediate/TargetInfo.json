@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToolBox",
+			"Path": "D:\\WorkStation\\_Person\\Git\\ToolBox\\Source\\ToolBox.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToolBoxEditor",
+			"Path": "D:\\WorkStation\\_Person\\Git\\ToolBox\\Source\\ToolBoxEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ToolBox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\WorkStation\_Person\Git\ToolBox\Intermediate\Build\Win64\ToolBoxEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\WorkStation\_Person\Git\ToolBox\Intermediate\Build\Win64\UnrealEditor\Development\ToolBox\ToolBox.cpp.obj"
+"D:\WorkStation\_Person\Git\ToolBox\Intermediate\Build\Win64\UnrealEditor\Development\ToolBox\Default.rc2.res"
+/OUT:"D:\WorkStation\_Person\Git\ToolBox\Intermediate\Build\Win64\UnrealEditor\Development\ToolBox\UnrealEditor-ToolBox.lib"
